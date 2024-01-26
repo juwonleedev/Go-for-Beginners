@@ -4,7 +4,7 @@
 
 ## 강의 정보
 
-- 강의 링크: [Nomad Coder - 쉽고 빠른 Go](https://nomadcoders.co/go-for-beginners)
+강의 링크: [Nomad Coder - 쉽고 빠른 Go](https://nomadcoders.co/go-for-beginners)
 
 ## 코드 구성
 
